@@ -1,0 +1,30 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color:  rgb(255,99,71);
+  text-align: center;
+  padding: 20px;
+  color: azure;
+  flex-wrap: wrap;
+}
+ a{
+  padding: 10px;
+}
+
+.login{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(105,189,210);
+}
+.register{
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(105,189,210);
+}
+svg{
+  cursor: pointer;
+}
+svg:hover{
+  color: red;
+}
